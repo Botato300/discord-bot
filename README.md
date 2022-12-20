@@ -12,5 +12,9 @@ descargarlo y reproducirlo.
 
 ## Comandos y Uso
 Solo debes escribir el prefijo ***.*** seguido del ***nombre del comando***.
-- ***.ping***: Te mostrará el ping que hay entre el cliente y el server.
-- ***.p (link)***: Reproducirá el audio del link de youtube. Ejemplo: *.p https://www.youtube.com/watch?v=dQw4w9WgXcQ*
+- ***.help***: Te mostrará los comandos disponibles y su descripción.
+- ***.play (link)***: Reproducirá el audio del link de youtube. Ejemplo: *.play https://www.youtube.com/watch?v=dQw4w9WgXcQ*
+- ***.buscar (tu_busqueda)***: Muestra una lista de resultados de la búsqueda de Youtube.
+- ***.pausar***: Pausa la canción actual que se esté reproduciendo.
+
+**Y más comandos que podrás ver escribiendo: .help**
